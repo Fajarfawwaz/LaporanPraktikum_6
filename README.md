@@ -51,3 +51,21 @@ Menampilkan tabel manajemen artikel pada sisi admin.
 
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/ac9bceb2-aa69-49cd-a127-fa881e4c981e" />
 
+## B. Daftar Artikel (User Interface)
+
+Menampilkan daftar artikel yang sudah dilengkapi dengan label kategori.
+
+<img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/01c34485-dae8-47ab-bcb0-6d490318ca14" />
+
+## C. Form Tambah & Edit Artikel
+
+Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data ke database.
+
+# Tampilan Dropdown DI Tambah Artikel : 
+
+<img width="1707" height="942" alt="image" src="https://github.com/user-attachments/assets/619ea05e-a336-45cb-8153-6e13e33ec722" />
+
+# Tampilan Dropdown Di Edit Artikel : 
+
+<img width="1738" height="829" alt="image" src="https://github.com/user-attachments/assets/a508b710-8961-4ca6-8672-9fa37c84d5cf" />
+
