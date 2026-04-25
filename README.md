@@ -5,7 +5,7 @@ Repositori ini berisi hasil praktikum mata kuliah Pemrograman Web 2 yang fokus p
 ## Informasi Mahasiswa
 * **Nama:** Fajar Fawwaz Atallah
 * **NIM:** 312410357
-* **Kelas:** TI.24.A4
+* **Kelas:** TI.24.A4 / I241D
 * **Dosen:** Agung Nugroho, S.Kom., M.Kom.
 
 ---
@@ -45,45 +45,45 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 
 ### Hasil Praktikum
 
-### A. Dashboard Admin (Daftar Artikel)
+# A. Dashboard Admin (Daftar Artikel)
 
 ## Menampilkan tabel manajemen artikel pada sisi admin.
 
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/ac9bceb2-aa69-49cd-a127-fa881e4c981e" />
 
-### B. Daftar Artikel (User Interface)
+# B. Daftar Artikel (User Interface)
 
 ## Menampilkan daftar artikel yang sudah dilengkapi dengan label kategori.
 
 <img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/01c34485-dae8-47ab-bcb0-6d490318ca14" />
 
-### C. Form Tambah & Edit Artikel
+# C. Form Tambah & Edit Artikel
 
 ## Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data ke database.
 
-# Tampilan Dropdown DI Tambah Artikel : 
+### Tampilan Dropdown DI Tambah Artikel : 
 
 <img width="1707" height="942" alt="image" src="https://github.com/user-attachments/assets/619ea05e-a336-45cb-8153-6e13e33ec722" />
 
-# Tampilan Dropdown Di Edit Artikel : 
+### Tampilan Dropdown Di Edit Artikel : 
 
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/f7353d12-8d52-41cb-a5b8-9e8a1cf2f1d9" />
 
-### D. Halaman Detail Artikel
+# D. Halaman Detail Artikel
 
 ## Menampilkan informasi kategori secara spesifik pada saat artikel dibaca secara penuh.
 
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/e15ec1f9-bac0-45a0-ad9a-603879661e31" />
 
-### E. Struktur Database (Relasi Tabel)
+# E. Struktur Database (Relasi Tabel)
 
 ## Tabel artikel telah terhubung ke tabel kategori menggunakan id_kategori.
 
-# Tabel Database Kategori : 
+### Tabel Database Kategori : 
 
 <img width="1191" height="355" alt="image" src="https://github.com/user-attachments/assets/f3522a75-2f15-4e6e-9b8d-b6ed3b3f43e0" />
 
-# Tabel Database Artikel : 
+### Tabel Database Artikel : 
 
 <img width="1898" height="339" alt="image" src="https://github.com/user-attachments/assets/1523c235-b6e2-4528-a794-f3e6a24df356" />
 
