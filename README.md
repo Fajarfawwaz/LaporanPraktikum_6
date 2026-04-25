@@ -35,6 +35,7 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
     ->paginate(10);
 ```
 
+### 4. Pembaruan View
 
 
 ### Hasil Praktikum
