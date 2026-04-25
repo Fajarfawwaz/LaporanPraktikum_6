@@ -67,5 +67,6 @@ Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data k
 
 # Tampilan Dropdown Di Edit Artikel : 
 
-<img width="1738" height="829" alt="image" src="https://github.com/user-attachments/assets/a508b710-8961-4ca6-8672-9fa37c84d5cf" />
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/38395455-9c53-4d52-8a02-461f47bec1c5" />
+
 
