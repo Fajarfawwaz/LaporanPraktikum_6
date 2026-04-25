@@ -38,6 +38,10 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 ### 4. Pembaruan View
 
 - Halaman Depan : Menambahkan Badge Kategoori di atas judul artikel
+- Halaman Admin : Menambahkan Dropdown Kategori Pada Tabel Daftar Artikel ( ADD ARTIKEL DAN EDIT ARTIKEL )
+- Form Add Atau Edit :  Menambahkan Element ``` <sellect> ``` yang berisi daftar kategori dari database 
+
+--- 
 
 ### Hasil Praktikum
 
