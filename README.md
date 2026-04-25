@@ -45,21 +45,21 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 
 ### Hasil Praktikum
 
-## A. Dashboard Admin (Daftar Artikel)
+### A. Dashboard Admin (Daftar Artikel)
 
-Menampilkan tabel manajemen artikel pada sisi admin.
+## Menampilkan tabel manajemen artikel pada sisi admin.
 
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/ac9bceb2-aa69-49cd-a127-fa881e4c981e" />
 
-## B. Daftar Artikel (User Interface)
+### B. Daftar Artikel (User Interface)
 
-Menampilkan daftar artikel yang sudah dilengkapi dengan label kategori.
+## Menampilkan daftar artikel yang sudah dilengkapi dengan label kategori.
 
 <img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/01c34485-dae8-47ab-bcb0-6d490318ca14" />
 
-## C. Form Tambah & Edit Artikel
+### C. Form Tambah & Edit Artikel
 
-Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data ke database.
+## Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data ke database.
 
 # Tampilan Dropdown DI Tambah Artikel : 
 
@@ -67,6 +67,8 @@ Implementasi dropdown pemilihan kategori untuk proses simpan dan perbarui data k
 
 # Tampilan Dropdown Di Edit Artikel : 
 
-<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/38395455-9c53-4d52-8a02-461f47bec1c5" />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/f7353d12-8d52-41cb-a5b8-9e8a1cf2f1d9" />
 
+### D. Halaman Detail Artikel
 
+## Menampilkan informasi kategori secara spesifik pada saat artikel dibaca secara penuh.
