@@ -37,6 +37,7 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 
 ### 4. Pembaruan View
 
+- Halaman Depan : Menambahkan Badge Kategoori di atas judul artikel
 
 ### Hasil Praktikum
 
