@@ -35,6 +35,8 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
     ->paginate(10);
 ```
 
+### Hasil Praktikum
+
 ## A. Dashboard Admin (Daftar Artikel)
 
 Menampilkan tabel manajemen artikel pada sisi admin.
