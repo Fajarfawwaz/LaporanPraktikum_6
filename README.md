@@ -43,6 +43,9 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 
 --- 
 
+### DI BAWAH INI ADALAH HASIL PRAKTIKUM 6, UNTUK PRAKTIKUM 5 DI LINK GITHUB SATUNYA 
+### BERIKUT ADALAH LINK GITHUB PRAKTIKUM 1-5 : https://github.com/Fajarfawwaz/Praktikum1-5.git 
+
 ### Hasil Praktikum
 
 # A. Dashboard Admin (Daftar Artikel)
