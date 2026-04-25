@@ -43,6 +43,7 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 ### Hasil Praktikum
 
 ## A. Dashboard Admin (Daftar Artikel)
+
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/112c2784-e461-4857-b3b5-2a8b747e30ce" />
 
 Menampilkan tabel manajemen artikel pada sisi admin.
