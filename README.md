@@ -42,6 +42,7 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 - Form Add/Edit: Menambahkan elemen <select> yang berisi daftar kategori dari database.`.
 
 
+### Hasil Praktikum 
 <img width="1888" height="941" alt="image" src="https://github.com/user-attachments/assets/0ae72545-571a-4966-b2be-82da025085f8" />
 
 ## A. Daftar Artikel (User)
