@@ -35,4 +35,14 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
     ->paginate(10);
 ```
 
-<img width="1919" height="958" alt="Screenshot 2026-04-25 115844" src="https://github.com/user-attachments/assets/9ae284cf-cfe9-4fdd-8461-00655bd88610" />
+4. Pembaruan View
+- Halaman Depan: Menambahkan badge kategori di atas judul artikel.
+- Halaman Admin: Menambahkan kolom kategori pada tabel daftar artikel.
+- Form Add/Edit: Menambahkan elemen <select> yang berisi daftar kategori dari database.
+
+### Hasil Praktikum
+
+## A. Dashboard Admin (Daftar Artikel)
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/112c2784-e461-4857-b3b5-2a8b747e30ce" />
+
+Menampilkan tabel manajemen artikel pada sisi admin.
