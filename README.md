@@ -36,10 +36,11 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
     ->paginate(10);
 ```
 
-4. Pembaruan View
+###  4. Pembaruan View
 - Halaman Depan: Menambahkan badge kategori di atas judul artikel.
 - Halaman Admin: Menambahkan kolom kategori pada tabel daftar artikel.
-- Form Add/Edit: Menambahkan elemen <select> yang berisi daftar kategori dari database.
+- Form Add/Edit: Menambahkan elemen <select> yang berisi daftar kategori dari database.`.
+
 
 <img width="1888" height="941" alt="image" src="https://github.com/user-attachments/assets/0ae72545-571a-4966-b2be-82da025085f8" />
 
