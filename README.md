@@ -35,23 +35,13 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
     ->paginate(10);
 ```
 
+4. Pembaruan View
+- Halaman Depan: Menambahkan badge kategori di atas judul artikel.
 
-### Langkah-langkah Implementasi
+- Halaman Admin: Menambahkan kolom kategori pada tabel daftar artikel.
 
-## 1. Persiapan Database
-Menambahkan kolom `id_kategori` pada tabel `artikel` dan membuat tabel baru bernama `kategori`.
+- Form Add/Edit: Menambahkan elemen <select> yang berisi daftar kategori dari database.
 
-### 2. Konfigurasi Model
-Memperbarui `ArtikelModel.php` untuk mengizinkan kolom `id_kategori` masuk ke database melalui properti `$allowedFields`.
-
-### 3. Implementasi Controller
-Memperbarui `Artikel.php` dengan menambahkan `left join` pada query data, sehingga setiap artikel yang ditarik membawa informasi `nama_kategori`.
-
-```php
-$this->artikelModel->select('artikel.*, kategori.nama_kategori')
-    ->join('kategori', 'kategori.id_kategori = artikel.id_kategori', 'left')
-    ->paginate(10);
-```
 
 ### Hasil Praktikum
 
