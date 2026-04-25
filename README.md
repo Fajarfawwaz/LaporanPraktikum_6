@@ -72,3 +72,21 @@ $this->artikelModel->select('artikel.*, kategori.nama_kategori')
 ### D. Halaman Detail Artikel
 
 ## Menampilkan informasi kategori secara spesifik pada saat artikel dibaca secara penuh.
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/e15ec1f9-bac0-45a0-ad9a-603879661e31" />
+
+### E. Struktur Database (Relasi Tabel)
+
+## Tabel artikel telah terhubung ke tabel kategori menggunakan id_kategori.
+
+# Tabel Database Kategori : 
+
+<img width="1191" height="355" alt="image" src="https://github.com/user-attachments/assets/f3522a75-2f15-4e6e-9b8d-b6ed3b3f43e0" />
+
+# Tabel Database Artikel : 
+
+<img width="1898" height="339" alt="image" src="https://github.com/user-attachments/assets/1523c235-b6e2-4528-a794-f3e6a24df356" />
+
+---
+
+© 2026 Fajar Fawwaz Atallah - 312410357 - I241D - Universitas Pelita Bangsa
